@@ -1,0 +1,8 @@
+Package: com.nathan.internalstoragesettings
+Name: InternalStorageSettings
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Tweak to enable the hidden storage settings
+Maintainer: Nathan Senter
+Author: Nathan Senter
+Section: Tweaks
